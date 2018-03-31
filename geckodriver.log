@@ -1,0 +1,10 @@
+1522529540764	geckodriver	INFO	geckodriver 0.20.0
+1522529540793	geckodriver	INFO	Listening on 127.0.0.1:42333
+1522529541773	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.9OglqJ1ZCAYE"
+1522529543844	Marionette	INFO	Enabled via --marionette
+1522529547996	Marionette	INFO	Listening on port 37885
+1522529548026	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.kinopoisk.ru/, line 2538: ReferenceError: num_of_items is not defined
+JavaScript error: https://www.kinopoisk.ru/, line 2672: ReferenceError: num_of_items is not defined
+JavaScript error: https://www.kinopoisk.ru/, line 2965: ReferenceError: num_of_items is not defined
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
