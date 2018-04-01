@@ -8,3 +8,85 @@ JavaScript error: https://www.kinopoisk.ru/, line 2538: ReferenceError: num_of_i
 JavaScript error: https://www.kinopoisk.ru/, line 2672: ReferenceError: num_of_items is not defined
 JavaScript error: https://www.kinopoisk.ru/, line 2965: ReferenceError: num_of_items is not defined
 *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522586956608	geckodriver	INFO	geckodriver 0.20.0
+1522586956692	geckodriver	INFO	Listening on 127.0.0.1:48341
+1522586957641	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HT4ne4ck680s"
+1522586962028	Marionette	INFO	Enabled via --marionette
+1522586971436	Marionette	INFO	Listening on port 40039
+1522586971566	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.kinopoisk.ru/, line 2596: ReferenceError: num_of_items is not defined
+JavaScript error: https://www.kinopoisk.ru/, line 2730: ReferenceError: num_of_items is not defined
+JavaScript error: https://www.kinopoisk.ru/, line 3021: ReferenceError: num_of_items is not defined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1522588227862	geckodriver	INFO	geckodriver 0.20.0
+1522588227873	geckodriver	INFO	Listening on 127.0.0.1:34615
+1522588228871	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.njRoftRQ0VBH"
+1522588230348	Marionette	INFO	Enabled via --marionette
+1522588233742	Marionette	INFO	Listening on port 35317
+1522588233876	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.kinopoisk.ru/, line 2596: ReferenceError: num_of_items is not defined
+JavaScript error: https://www.kinopoisk.ru/, line 2730: ReferenceError: num_of_items is not defined
+JavaScript error: https://www.kinopoisk.ru/, line 3021: ReferenceError: num_of_items is not defined
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x510027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522588257940	geckodriver::marionette	ERROR	Failed to stop browser process
+1522588444864	geckodriver	INFO	geckodriver 0.20.0
+1522588444880	geckodriver	INFO	Listening on 127.0.0.1:55393
+1522588445878	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.m52v9PMSSztZ"
+1522588447524	Marionette	INFO	Enabled via --marionette
+1522588451552	Marionette	INFO	Listening on port 46625
+1522588451662	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.kinopoisk.ru/, line 2604: ReferenceError: num_of_items is not defined
+JavaScript error: https://www.kinopoisk.ru/, line 2738: ReferenceError: num_of_items is not defined
+JavaScript error: https://www.kinopoisk.ru/, line 3029: ReferenceError: num_of_items is not defined
+[Parent 8405, Gecko_IOThread] WARNING: pipe error (106): Connection reset by peer: file /build/firefox-mkRbRs/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1522588476252	geckodriver::marionette	ERROR	Failed to stop browser process
+1522588510682	geckodriver	INFO	geckodriver 0.20.0
+1522588510723	geckodriver	INFO	Listening on 127.0.0.1:52035
+1522588511691	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.PTZSwfiNJJpR"
+1522588513276	Marionette	INFO	Enabled via --marionette
+1522588517512	Marionette	INFO	Listening on port 43275
+1522588517582	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.kinopoisk.ru/, line 2604: ReferenceError: num_of_items is not defined
+JavaScript error: https://www.kinopoisk.ru/, line 2738: ReferenceError: num_of_items is not defined
+JavaScript error: https://www.kinopoisk.ru/, line 3029: ReferenceError: num_of_items is not defined
+[Parent 8613, Gecko_IOThread] WARNING: pipe error (104): Connection reset by peer: file /build/firefox-mkRbRs/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1522588581953	geckodriver	INFO	geckodriver 0.20.0
+1522588581966	geckodriver	INFO	Listening on 127.0.0.1:43697
+1522588582966	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.QbwT7Y4DDTSg"
+1522588584492	Marionette	INFO	Enabled via --marionette
+1522588588284	Marionette	INFO	Listening on port 44451
+1522588588318	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.kinopoisk.ru/, line 2605: ReferenceError: num_of_items is not defined
+JavaScript error: https://www.kinopoisk.ru/, line 2739: ReferenceError: num_of_items is not defined
+JavaScript error: https://www.kinopoisk.ru/, line 3030: ReferenceError: num_of_items is not defined
