@@ -90,3 +90,132 @@ JavaScript error: https://www.kinopoisk.ru/, line 3029: ReferenceError: num_of_i
 JavaScript error: https://www.kinopoisk.ru/, line 2605: ReferenceError: num_of_items is not defined
 JavaScript error: https://www.kinopoisk.ru/, line 2739: ReferenceError: num_of_items is not defined
 JavaScript error: https://www.kinopoisk.ru/, line 3030: ReferenceError: num_of_items is not defined
+1523302522359	geckodriver	INFO	geckodriver 0.20.0
+1523302522392	geckodriver	INFO	Listening on 127.0.0.1:53143
+1523302523350	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.wRW3b2VEjQIS"
+1523302525916	Marionette	INFO	Enabled via --marionette
+1523302533458	Marionette	INFO	Listening on port 38131
+1523302533614	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: this.curBrowser.contentBrowser is null
+GeckoDriver.prototype.get@chrome://marionette/content/driver.js:1060:3
+
+JavaScript error: https://st6.kp.yandex.net/js/vendors.js?v=3db12fd89b5ce6943fdbcc58ac2b23ec, line 1: NS_ERROR_NOT_INITIALIZED: 
+1523302542758	Marionette	DEBUG	Register listener.js for window 4294967297
+[Child 22478, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-IFICOW/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1523302542794	Marionette	ERROR	No reply from Marionette:Register
+JavaScript error: chrome://marionette/content/listener.js, line 466: TypeError: reply[0] is undefined
+1523302543208	Marionette	DEBUG	Register listener.js for window 4294967299
+1523302543240	Marionette	ERROR	No reply from Marionette:Register
+JavaScript error: chrome://marionette/content/listener.js, line 466: TypeError: reply[0] is undefined
+1523385427543	geckodriver	INFO	geckodriver 0.20.0
+1523385427587	geckodriver	INFO	Listening on 127.0.0.1:50647
+1523385428550	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Zqz0Hi2nIep4"
+1523385431194	Marionette	INFO	Enabled via --marionette
+1523385435878	Marionette	INFO	Listening on port 42841
+1523385435906	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ads.adfox.ru/251518/getCodeTest?%2310003;=&bid=&dl=https%3A%2F%2Fwww.kinopoisk.ru%2F&extid_loader=&extid_tag_loader=www.kinopoisk.ru&grab=dNCa0LjQvdC-0J_QvtC40YHQuiDigJQg0JLRgdC1INGE0LjQu9GM0LzRiyDQv9C70LDQvdC10YLRiwo%3D&is-turbo=0&layout-config=%7B%22win_width%22%3A1301%2C%22win_height%22%3A670%2C%22width%22%3A850%2C%22height%22%3A0%2C%22left%22%3A221%2C%22top%22%3A360%2C%22visible%22%3A1%2C%22req_no%22%3A0%7D&p2=fkyf&pct=a&pd=10&pdh=768&pdw=1366&pfb=a&pfc=a&pp=g&pr=1648694778&pr1=3136448509&prr=&ps=cjby&pt=b&pv=21&pw=2&skip-token=&utf8=&ybv=0.736&ylv=0.736&ytt=37&lvlfrom=14&rqs=smkoGhEAAABnBM1ap3Z9AEL2jqT_PSr7&csl=biggc&ad-session-id=3323891523385441990&usgn=ARk4wECVgV8A9kHwpEBkP2eOnI68AIhOqyYf29cBra8H, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://ads.adfox.ru/251518/prepareCode?%2310003;=&bid=&dl=https%3A%2F%2Fwww.kinopoisk.ru%2F&extid_loader=MTUyMzM4NTQ0NjI4NDg0MTAxNg%3D%3D&extid_tag_loader=www.kinopoisk.ru&grab=dNCa0LjQvdC-0J_QvtC40YHQuiDigJQg0JLRgdC1INGE0LjQu9GM0LzRiyDQv9C70LDQvdC10YLRiwo%3D&is-turbo=0&layout-config=%7B%22win_width%22%3A1301%2C%22win_height%22%3A670%2C%22width%22%3A240%2C%22height%22%3A0%2C%22left%22%3A819%2C%22top%22%3A612%2C%22visible%22%3A1%2C%22req_no%22%3A1%7D&p2=fkyg&pct=a&pd=10&pdh=768&pdw=1366&pfb=a&pfc=a&pp=g&pr=1648694778&pr1=2026685124&prr=&ps=cjby&pt=b&pv=21&pw=2&sign=fb7fd5c2e95c1cc9bbcc43a7f888deb9&skip-token=&utf8=&yandexuid=4133525236447943185&ybv=0.736&ylv=0.736&ytt=37&lvlfrom=20&rqs=smkoGhEAAABoBM1aXU4kvLBuTltR6-kP&csl=biggc:blozd&ad-session-id=3323891523385441990&usgn=AQNoYdIuUkPlXo9ihH5i_yVvC1F4BOnL1znvDDu62Knc, line 2: NS_ERROR_NOT_INITIALIZED: 
+[Parent 25934, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-IFICOW/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1523385503708	geckodriver	INFO	geckodriver 0.20.0
+1523385503720	geckodriver	INFO	Listening on 127.0.0.1:37517
+1523385504724	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.j3Xr5AynihvK"
+1523385506500	Marionette	INFO	Enabled via --marionette
+1523385511638	Marionette	INFO	Listening on port 39657
+1523385511740	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ads.adfox.ru/251518/getCodeTest?%2310003;=&bid=&dl=https%3A%2F%2Fwww.kinopoisk.ru%2F&extid_loader=&extid_tag_loader=www.kinopoisk.ru&grab=dNCa0LjQvdC-0J_QvtC40YHQuiDigJQg0JLRgdC1INGE0LjQu9GM0LzRiyDQv9C70LDQvdC10YLRiwo%3D&is-turbo=0&layout-config=%7B%22win_width%22%3A1301%2C%22win_height%22%3A670%2C%22width%22%3A850%2C%22height%22%3A0%2C%22left%22%3A221%2C%22top%22%3A360%2C%22visible%22%3A1%2C%22req_no%22%3A0%7D&p2=fkyf&pct=a&pd=10&pdh=768&pdw=1366&pfb=a&pfc=a&pp=g&pr=4114693174&pr1=2026617455&prr=&ps=cjby&pt=b&pv=21&pw=2&skip-token=&utf8=&ybv=0.736&ylv=0.736&ytt=37&lvlfrom=14&rqs=CnpTGgUAAACxBM1a5b3_2r-knNsaeM-A&csl=biggc&ad-session-id=1943941523385518362&usgn=AQy1ePvAM2zho1-_IJTjF6cqKcTGKf8kX5R9jNQ09H5Z, line 2: NS_ERROR_NOT_INITIALIZED: 
+[Parent 26128, Gecko_IOThread] WARNING: pipe error (37): Connection reset by peer: file /build/firefox-IFICOW/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1523386317437	geckodriver	INFO	geckodriver 0.20.0
+1523386317470	geckodriver	INFO	Listening on 127.0.0.1:39149
+1523386318450	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qZuTlol5daNR"
+1523386320256	Marionette	INFO	Enabled via --marionette
+1523386325484	Marionette	INFO	Listening on port 45365
+1523386325556	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ads.adfox.ru/251518/getCodeTest?%2310003;=&bid=&dl=https%3A%2F%2Fwww.kinopoisk.ru%2F&extid_loader=&extid_tag_loader=www.kinopoisk.ru&grab=dNCa0LjQvdC-0J_QvtC40YHQuiDigJQg0JLRgdC1INGE0LjQu9GM0LzRiyDQv9C70LDQvdC10YLRiwo%3D&is-turbo=0&layout-config=%7B%22win_width%22%3A1301%2C%22win_height%22%3A670%2C%22width%22%3A850%2C%22height%22%3A0%2C%22left%22%3A221%2C%22top%22%3A360%2C%22visible%22%3A1%2C%22req_no%22%3A0%7D&p2=fkyf&pct=a&pd=10&pdh=768&pdw=1366&pfb=a&pfc=a&pp=g&pr=799476923&pr1=979524005&prr=&ps=cjby&pt=b&pv=21&pw=2&skip-token=&utf8=&ybv=0.736&ylv=0.736&ytt=37&lvlfrom=14&rqs=ri-LGgIAAADgB81aXuJA7e_yVXHECcfD&csl=biggc&ad-session-id=9088881523386331462&usgn=AdAe4PQTyDKFTLk5F4JaREHgrBh9GChWT6IKl9kKzyES, line 2: NS_ERROR_NOT_INITIALIZED: 
+1523388085576	geckodriver	INFO	geckodriver 0.20.0
+1523388085588	geckodriver	INFO	Listening on 127.0.0.1:49259
+1523388086589	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.771wovrkXj99"
+1523388088230	Marionette	INFO	Enabled via --marionette
+1523388092700	Marionette	INFO	Listening on port 37669
+1523388092762	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ads.adfox.ru/251518/getCodeTest?%2310003;=&bid=&dl=https%3A%2F%2Fwww.kinopoisk.ru%2F&extid_loader=&extid_tag_loader=www.kinopoisk.ru&grab=dNCa0LjQvdC-0J_QvtC40YHQuiDigJQg0JLRgdC1INGE0LjQu9GM0LzRiyDQv9C70LDQvdC10YLRiwo%3D&is-turbo=0&layout-config=%7B%22win_width%22%3A1301%2C%22win_height%22%3A670%2C%22width%22%3A850%2C%22height%22%3A0%2C%22left%22%3A221%2C%22top%22%3A360%2C%22visible%22%3A1%2C%22req_no%22%3A0%7D&p2=fkyf&pct=a&pd=10&pdh=768&pdw=1366&pfb=a&pfc=a&pp=g&pr=339145852&pr1=3845865156&prr=&ps=cjby&pt=b&pv=22&pw=2&skip-token=&utf8=&ybv=0.736&ylv=0.736&ytt=37&lvlfrom=14&rqs=xWSeGhcAAADIDs1asmAcxq6oAV-vQuaM&csl=biggc&ad-session-id=9597751523388101038&usgn=AU_Zbq2Tguq_7Q3vGFCRho_WRV0zjni_WVdF7J9xTQqf, line 2: NS_ERROR_NOT_INITIALIZED: 
+1523388165988	geckodriver	INFO	geckodriver 0.20.0
+1523388166004	geckodriver	INFO	Listening on 127.0.0.1:47893
+1523388166998	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.rpMrsjceR34Z"
+1523388168760	Marionette	INFO	Enabled via --marionette
+1523388172562	Marionette	INFO	Listening on port 36331
+1523388172652	Marionette	WARN	TLS certificate errors will be ignored for this session
