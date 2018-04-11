@@ -219,3 +219,77 @@ JavaScript error: https://ads.adfox.ru/251518/getCodeTest?%2310003;=&bid=&dl=htt
 1523388168760	Marionette	INFO	Enabled via --marionette
 1523388172562	Marionette	INFO	Listening on port 36331
 1523388172652	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523435497646	geckodriver	INFO	geckodriver 0.20.1
+1523435497652	geckodriver	INFO	Listening on 127.0.0.1:43571
+1523435497729	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.kDcfMIvyM8Wg"
+1523435499624	Marionette	INFO	Enabled via --marionette
+1523435503894	Marionette	INFO	Listening on port 40683
+1523435503994	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ads.adfox.ru/251518/getCodeTest?%2310003;=&bid=&dl=https%3A%2F%2Fwww.kinopoisk.ru%2F&extid_loader=&extid_tag_loader=www.kinopoisk.ru&grab=dNCa0LjQvdC-0J_QvtC40YHQuiDigJQg0JLRgdC1INGE0LjQu9GM0LzRiyDQv9C70LDQvdC10YLRiwo%3D&is-turbo=0&layout-config=%7B%22win_width%22%3A1280%2C%22win_height%22%3A898%2C%22width%22%3A850%2C%22height%22%3A0%2C%22left%22%3A210%2C%22top%22%3A360%2C%22visible%22%3A1%2C%22req_no%22%3A0%7D&p2=fkyf&pct=a&pd=11&pdh=1080&pdw=1920&pfb=a&pfc=a&pp=g&pr=1762228680&pr1=3328819755&prr=&ps=cjby&pt=b&pv=11&pw=3&sign=81e2b71466e3165fec54fb801f2fa886&skip-token=&utf8=&yandexuid=10219742590840425453&ybv=0.737&ylv=0.737&ytt=37&lvlfrom=14&rqs=qr2qGgoAAAD8x81a71iYb3TgOqlvkOU0&csl=biggc&ad-session-id=1613471523435512086&usgn=AWkUcIUC7egRgwjACexq4UlnRo3B9RTu8zvOKs97yfYA, line 2: NS_ERROR_NOT_INITIALIZED: 
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523435559414	geckodriver	INFO	geckodriver 0.20.1
+1523435559417	geckodriver	INFO	Listening on 127.0.0.1:46783
+1523435560417	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.xFSJHDjaYxbG"
+1523435561194	Marionette	INFO	Enabled via --marionette
+1523435564100	Marionette	INFO	Listening on port 34341
+1523435564142	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ads.adfox.ru/251518/getCodeTest?%2310003;=&bid=&dl=https%3A%2F%2Fwww.kinopoisk.ru%2F&extid_loader=&extid_tag_loader=www.kinopoisk.ru&grab=dNCa0LjQvdC-0J_QvtC40YHQuiDigJQg0JLRgdC1INGE0LjQu9GM0LzRiyDQv9C70LDQvdC10YLRiwo%3D&is-turbo=0&layout-config=%7B%22win_width%22%3A1280%2C%22win_height%22%3A898%2C%22width%22%3A850%2C%22height%22%3A0%2C%22left%22%3A210%2C%22top%22%3A180%2C%22visible%22%3A1%2C%22req_no%22%3A0%7D&p2=fkyf&pct=a&pd=11&pdh=1080&pdw=1920&pfb=a&pfc=a&pp=g&pr=3338101784&pr1=3304607769&prr=&ps=cjby&pt=b&pv=11&pw=3&sign=5928fbbf34f48e22543e1a50a3948447&skip-token=&utf8=&yandexuid=8855118010888521094&ybv=0.737&ylv=0.737&ytt=37&lvlfrom=14&rqs=3rudGhIAAAA0yM1aONybsnubcgASXexB&csl=biggc&ad-session-id=7718101523435570758&usgn=Aa_G_TsH6K96LUcHeGDEP4s9ImJ4aaeqsoS0FvCIICHP, line 2: NS_ERROR_NOT_INITIALIZED: 
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523435596979	geckodriver	INFO	geckodriver 0.20.1
+1523435596984	geckodriver	INFO	Listening on 127.0.0.1:41811
+1523435597986	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6fdIwIcTtIxj"
+1523435598958	Marionette	INFO	Enabled via --marionette
+1523435601916	Marionette	INFO	Listening on port 39989
+1523435602022	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ads.adfox.ru/251518/getCodeTest?%2310003;=&bid=&dl=https%3A%2F%2Fwww.kinopoisk.ru%2F&extid_loader=&extid_tag_loader=www.kinopoisk.ru&grab=dNCa0LjQvdC-0J_QvtC40YHQuiDigJQg0JLRgdC1INGE0LjQu9GM0LzRiyDQv9C70LDQvdC10YLRiwo%3D&is-turbo=0&layout-config=%7B%22win_width%22%3A1280%2C%22win_height%22%3A898%2C%22width%22%3A850%2C%22height%22%3A0%2C%22left%22%3A210%2C%22top%22%3A360%2C%22visible%22%3A1%2C%22req_no%22%3A0%7D&p2=fkyf&pct=a&pd=11&pdh=1080&pdw=1920&pfb=a&pfc=a&pp=g&pr=1895171746&pr1=2495813147&prr=&ps=cjby&pt=b&pv=11&pw=3&sign=d6782fd428fba4bbb5a387acfc77053c&skip-token=&utf8=&yandexuid=9737953700720024631&ybv=0.737&ylv=0.737&ytt=37&lvlfrom=14&rqs=2ryNGgwAAABayM1aTysgpVo9ooaYftEU&csl=biggc&ad-session-id=5411281523435608206&usgn=AbqKrCxbMHT0KX1mevkVib5V4QrKVTOrMn3XXKISPkMN, line 2: NS_ERROR_NOT_INITIALIZED: 
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523436190400	geckodriver	INFO	geckodriver 0.20.1
+1523436190404	geckodriver	INFO	Listening on 127.0.0.1:51011
+1523436191406	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.hQD2gq9RXfTK"
+1523436192164	Marionette	INFO	Enabled via --marionette
+1523436194652	Marionette	INFO	Listening on port 42335
+1523436194718	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ads.adfox.ru/251518/getCodeTest?%2310003;=&bid=&dl=https%3A%2F%2Fwww.kinopoisk.ru%2F&extid_loader=&extid_tag_loader=www.kinopoisk.ru&grab=dNCa0LjQvdC-0J_QvtC40YHQuiDigJQg0JLRgdC1INGE0LjQu9GM0LzRiyDQv9C70LDQvdC10YLRiwo%3D&is-turbo=0&layout-config=%7B%22win_width%22%3A1280%2C%22win_height%22%3A898%2C%22width%22%3A850%2C%22height%22%3A0%2C%22left%22%3A210%2C%22top%22%3A360%2C%22visible%22%3A1%2C%22req_no%22%3A0%7D&p2=fkyf&pct=a&pd=11&pdh=1080&pdw=1920&pfb=a&pfc=a&pp=g&pr=2497193863&pr1=352139830&prr=&ps=cjby&pt=b&pv=11&pw=3&skip-token=&utf8=&ybv=0.737&ylv=0.737&ytt=37&lvlfrom=14&rqs=YRynGg8AAACuys1agaCSaVgVPKOrJIVr&csl=biggc&ad-session-id=303431523436200476&usgn=ARVs3qKGeC2itYj2fKCwD9ra44enpjXJE5JDIMGenL7B, line 2: NS_ERROR_NOT_INITIALIZED: 
+1523436259410	geckodriver	INFO	geckodriver 0.20.1
+1523436259414	geckodriver	INFO	Listening on 127.0.0.1:37085
+1523436260415	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.HxWvo5TU87oT"
+1523436261362	Marionette	INFO	Enabled via --marionette
+1523436264432	Marionette	INFO	Listening on port 46371
+1523436264544	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ads.adfox.ru/251518/getCodeTest?%2310003;=&bid=&dl=https%3A%2F%2Fwww.kinopoisk.ru%2F&extid_loader=&extid_tag_loader=www.kinopoisk.ru&grab=dNCa0LjQvdC-0J_QvtC40YHQuiDigJQg0JLRgdC1INGE0LjQu9GM0LzRiyDQv9C70LDQvdC10YLRiwo%3D&is-turbo=0&layout-config=%7B%22win_width%22%3A1280%2C%22win_height%22%3A898%2C%22width%22%3A850%2C%22height%22%3A0%2C%22left%22%3A210%2C%22top%22%3A360%2C%22visible%22%3A1%2C%22req_no%22%3A0%7D&p2=fkyf&pct=a&pd=11&pdh=1080&pdw=1920&pfb=a&pfc=a&pp=g&pr=1874206861&pr1=473307368&prr=&ps=cjby&pt=b&pv=11&pw=3&sign=1477fda6b198f9f6e73ac565828f5512&skip-token=&utf8=&yandexuid=5773935097447570850&ybv=0.737&ylv=0.737&ytt=37&lvlfrom=14&rqs=oQJaGgUAAADwys1a59Y2VO9GxMT5vnQB&csl=biggc&ad-session-id=8740101523436269962&usgn=ASTy03Njf6LpzLGCsY1xmCajWj8nhpOpo_68C-sOVfJQ, line 2: NS_ERROR_NOT_INITIALIZED: 
+1523436278328	geckodriver	INFO	geckodriver 0.20.1
+1523436278332	geckodriver	INFO	Listening on 127.0.0.1:60015
+1523436279349	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.KAoXyLL5Pwp8"
+1523436280254	Marionette	INFO	Enabled via --marionette
+1523436282994	Marionette	INFO	Listening on port 38825
+1523436283068	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ads.adfox.ru/251518/getCodeTest?%2310003;=&bid=&dl=https%3A%2F%2Fwww.kinopoisk.ru%2F&extid_loader=&extid_tag_loader=www.kinopoisk.ru&grab=dNCa0LjQvdC-0J_QvtC40YHQuiDigJQg0JLRgdC1INGE0LjQu9GM0LzRiyDQv9C70LDQvdC10YLRiwo%3D&is-turbo=0&layout-config=%7B%22win_width%22%3A1280%2C%22win_height%22%3A898%2C%22width%22%3A850%2C%22height%22%3A0%2C%22left%22%3A210%2C%22top%22%3A360%2C%22visible%22%3A1%2C%22req_no%22%3A0%7D&p2=fkyf&pct=a&pd=11&pdh=1080&pdw=1920&pfb=a&pfc=a&pp=g&pr=1596463312&pr1=1740647235&prr=&ps=cjby&pt=b&pv=11&pw=3&sign=9d474b53fde67ef533c1740866a7772e&skip-token=&utf8=&yandexuid=5047747290779173171&ybv=0.737&ylv=0.737&ytt=37&lvlfrom=14&rqs=OeSqGgoAAAACy81aFysCMK4Uct7gu76z&csl=biggc&ad-session-id=4911391523436288578&usgn=AXUL3J88lM75jQD7jx_YI1QVMqpoGLv4YvgghkK_FMAo, line 2: NS_ERROR_NOT_INITIALIZED: 
+1523436510870	geckodriver	INFO	geckodriver 0.20.1
+1523436510874	geckodriver	INFO	Listening on 127.0.0.1:34795
+1523436511876	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jdhQZMjBIUcI"
+1523436512676	Marionette	INFO	Enabled via --marionette
+1523436515260	Marionette	INFO	Listening on port 44153
+1523436515300	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523436573040	geckodriver	INFO	geckodriver 0.20.1
+1523436573044	geckodriver	INFO	Listening on 127.0.0.1:55323
+1523436574046	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.CHHXUZ7SVGAj"
+1523436574854	Marionette	INFO	Enabled via --marionette
+1523436577562	Marionette	INFO	Listening on port 34669
+1523436577658	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ads.adfox.ru/251518/getCodeTest?%2310003;=&bid=&dl=https%3A%2F%2Fwww.kinopoisk.ru%2F&extid_loader=MTUyMzQzNjU4NDk0MDg0Mjkz&extid_tag_loader=www.kinopoisk.ru&grab=dNCa0LjQvdC-0J_QvtC40YHQuiDigJQg0JLRgdC1INGE0LjQu9GM0LzRiyDQv9C70LDQvdC10YLRiwo%3D&is-turbo=0&layout-config=%7B%22win_width%22%3A1280%2C%22win_height%22%3A898%2C%22width%22%3A850%2C%22height%22%3A0%2C%22left%22%3A210%2C%22top%22%3A360%2C%22visible%22%3A1%2C%22req_no%22%3A0%7D&p2=fkyf&pct=a&pd=11&pdh=1080&pdw=1920&pfb=a&pfc=a&pp=g&pr=4008174760&pr1=436621056&prr=&ps=cjby&pt=b&pv=11&pw=3&sign=f2efba9a2ce5cb604e04171963550432&skip-token=&utf8=&yandexuid=7569585564875286361&ybv=0.737&ylv=0.737&ytt=37&lvlfrom=14&rqs=CvOqGgoAAAAszM1aSm-seZrtjVxwhgT1&csl=biggc&ad-session-id=9038441523436586094&usgn=ARu4BHeBbiAw5DmVmxipElx-M4YVqZvo688YDizHrrQ4, line 2: NS_ERROR_NOT_INITIALIZED: 
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523436625513	geckodriver	INFO	geckodriver 0.20.1
+1523436625517	geckodriver	INFO	Listening on 127.0.0.1:48255
+1523436626520	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.FIKwpfsx0Ksa"
+1523436627298	Marionette	INFO	Enabled via --marionette
+1523436629622	Marionette	INFO	Listening on port 44801
+1523436629640	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ads.adfox.ru/251518/getCodeTest?%2310003;=&bid=&dl=https%3A%2F%2Fwww.kinopoisk.ru%2F&extid_loader=&extid_tag_loader=www.kinopoisk.ru&grab=dNCa0LjQvdC-0J_QvtC40YHQuiDigJQg0JLRgdC1INGE0LjQu9GM0LzRiyDQv9C70LDQvdC10YLRiwo%3D&is-turbo=0&layout-config=%7B%22win_width%22%3A1280%2C%22win_height%22%3A898%2C%22width%22%3A850%2C%22height%22%3A0%2C%22left%22%3A210%2C%22top%22%3A360%2C%22visible%22%3A1%2C%22req_no%22%3A0%7D&p2=fkyf&pct=a&pd=11&pdh=1080&pdw=1920&pfb=a&pfc=a&pp=g&pr=388875140&pr1=1379049395&prr=&ps=cjby&pt=b&pv=11&pw=3&skip-token=&utf8=&ybv=0.737&ylv=0.737&ytt=37&lvlfrom=14&rqs=dNbKGg4AAABazM1aluPUkV8JTNA3m-Np&csl=biggc&ad-session-id=6850421523436634212&usgn=AZm4AMRUmf0mLMtiIHXY3CrcL9Bey3oToQfL2PDnXug3, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://yastatic.net/s3/kinopoisk-frontend/widgets-www/discovery/0.0.250-discovery/sdk.min.js, line 1: TypeError: can't convert undefined to object
+JavaScript warning: https://www.kinopoisk.ru/photostory/3152953/, line 943: SyntaxError: 08 is not a legal ECMA-262 octal constant
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x47000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://www.kinopoisk.ru/photostory/3152953/, line 943: SyntaxError: 08 is not a legal ECMA-262 octal constant
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping

@@ -17,7 +17,11 @@ driver.find_element_by_class_name('button__label').click() #нажимаем к�
 time.sleep(2) #ждём 2 секунды
 #driver.quit() #завершаем работу
 '''
-links = driver.find_elements_by_class_name('header-fresh-partial-component__navigation-item')
+links = driver.find_elements_by_class_name('item_link')
 print(links[0])
-
+print(links[1])
+print(len(links))
+x = numpy.random.choice(links)
+print(x)
+x.click()
 
