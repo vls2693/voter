@@ -1,6 +1,7 @@
 import time
 from selenium import webdriver
 import numpy
+from selenium.webdriver.common.by import By
 
 driver = webdriver.Firefox() #открываем браузер
 driver.get("https://www.kinopoisk.ru/") #заходим на кинопоиск
@@ -17,7 +18,9 @@ driver.find_element_by_class_name('button__label').click() #нажимаем к�
 time.sleep(2) #ждём 2 секунды
 #driver.quit() #завершаем работу
 '''
-links = driver.find_elements_by_class_name('header-fresh-partial-component__navigation-item')
-print(links[0])
-
-
+#links = driver.find_element(By.CSS_SELECTOR, '#index_news > div:nth-child(1) > div:nth-child(1) > div:nth-child(1)')
+links = driver.find_elements_by_css_selector('#index_news > div:nth-child(1) > div:nth-child(1) > div:nth-child')
+print(links)
+links[2].click()
+#index_news > div:nth-child(1) > div:nth-child(1) > div:nth-child(1)
+#index_news > div:nth-child(1) > div:nth-child(1) > div:nth-child(2)

@@ -219,3 +219,342 @@ JavaScript error: https://ads.adfox.ru/251518/getCodeTest?%2310003;=&bid=&dl=htt
 1523388168760	Marionette	INFO	Enabled via --marionette
 1523388172562	Marionette	INFO	Listening on port 36331
 1523388172652	Marionette	WARN	TLS certificate errors will be ignored for this session
+1523389505208	geckodriver	INFO	geckodriver 0.20.0
+1523389505220	geckodriver	INFO	Listening on 127.0.0.1:35757
+1523389506223	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.cXHgx2Q88F6T"
+1523389508102	Marionette	INFO	Enabled via --marionette
+1523389513260	Marionette	INFO	Listening on port 38433
+1523389513370	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ads.adfox.ru/251518/getCodeTest?%2310003;=&bid=&dl=https%3A%2F%2Fwww.kinopoisk.ru%2F&extid_loader=&extid_tag_loader=www.kinopoisk.ru&grab=dNCa0LjQvdC-0J_QvtC40YHQuiDigJQg0JLRgdC1INGE0LjQu9GM0LzRiyDQv9C70LDQvdC10YLRiwo%3D&is-turbo=0&layout-config=%7B%22win_width%22%3A1301%2C%22win_height%22%3A670%2C%22width%22%3A850%2C%22height%22%3A0%2C%22left%22%3A221%2C%22top%22%3A360%2C%22visible%22%3A1%2C%22req_no%22%3A0%7D&p2=fkyf&pct=a&pd=10&pdh=768&pdw=1366&pfb=a&pfc=a&pp=g&pr=4222777401&pr1=840269675&prr=&ps=cjby&pt=b&pv=22&pw=2&skip-token=&utf8=&ybv=0.736&ylv=0.736&ytt=37&lvlfrom=14&rqs=gCKIGgwAAABSFM1anNWC5vTjARGHB3as&csl=biggc&ad-session-id=1329621523389519300&usgn=ATfzz53sggPXbeDIyKJyjLdVamx3ZUu3TWoDF9SWIG7f, line 2: NS_ERROR_NOT_INITIALIZED: 
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523902101338	geckodriver	INFO	geckodriver 0.20.0
+1523902101362	geckodriver	INFO	Listening on 127.0.0.1:58797
+1523902102325	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Uiu8B9Acz1Tp"
+1523902103874	Marionette	INFO	Enabled via --marionette
+1523902107468	Marionette	INFO	Listening on port 46383
+1523902107596	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ads.adfox.ru/251518/getCodeTest?%2310003;=&bid=&dl=https%3A%2F%2Fwww.kinopoisk.ru%2F&extid_loader=&extid_tag_loader=www.kinopoisk.ru&grab=dNCa0LjQvdC-0J_QvtC40YHQuiDigJQg0JLRgdC1INGE0LjQu9GM0LzRiyDQv9C70LDQvdC10YLRiwo%3D&is-turbo=0&layout-config=%7B%22win_width%22%3A1301%2C%22win_height%22%3A670%2C%22width%22%3A850%2C%22height%22%3A0%2C%22left%22%3A221%2C%22top%22%3A360%2C%22visible%22%3A1%2C%22req_no%22%3A0%7D&p2=fkyf&pct=a&pd=16&pdh=768&pdw=1366&pfb=a&pfc=a&pp=g&pr=3981961989&pr1=3609169373&prr=&ps=cjby&pt=b&pv=21&pw=1&skip-token=&utf8=&ybv=0.750&ylv=0.750&ytt=37&lvlfrom=14&rqs=AqLdGgIAAACj5tRaFW8Mb6k4ZfsSSq7p&csl=biggc&ad-session-id=4093671523902111712&usgn=AeRzUe-d96lBXh4BgdRfB0vO99JGvvoxjyVGLNFz_lxx, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript warning: https://www.kinopoisk.ru/article/3155813/, line 830: SyntaxError: 08 is not a legal ECMA-262 octal constant
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 76: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+console.error: 
+  Message: TypeError: can't access dead object
+  Stack:
+    documentElement@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector.js:1186:1
+handler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1106:19
+onPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1788:15
+receiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:761:7
+
+documentElement@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector.js:1186:1
+handler@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:1106:19
+onPacket@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1788:15
+receiveMessage@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:761:7
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: https://st1.kp.yandex.net/js/main.js?v=d0306e9957ce1539b5e125fead1213d7, line 2: TypeError: window.ya.videoAd is undefined
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: https://ads.adfox.ru/251518/prepareCode?%2310003;=&bid=&dl=https%3A%2F%2Fwww.kinopoisk.ru%2F&extid_loader=MTUyMzkwMjExMzUwNTYwMDM4Ng%3D%3D&extid_tag_loader=www.kinopoisk.ru&grab=dNCa0LjQvdC-0J_QvtC40YHQuiDigJQg0JLRgdC1INGE0LjQu9GM0LzRiyDQv9C70LDQvdC10YLRiwo%3D&is-turbo=0&layout-config=%7B%22win_width%22%3A1301%2C%22win_height%22%3A420%2C%22width%22%3A850%2C%22height%22%3A0%2C%22left%22%3A221%2C%22top%22%3A360%2C%22visible%22%3A0%2C%22req_no%22%3A0%7D&p2=fkyf&pct=a&pd=16&pdh=768&pdw=1366&pfb=a&pfc=a&pp=g&pr=4154646104&pr1=2596550784&prr=&ps=cjby&pt=b&pv=21&pw=1&skip-token=&utf8=&ybv=0.750&ylv=0.750&ytt=2085&lvlfrom=14&rqs=AqLdGgIAAAB_59RaKaUAbUCw0IcY55OF&csl=biggc&ad-session-id=7293991523902334144&usgn=ARc36qX_X3GS5iwD1yE5fy26bwQFRSCuMnSgS1fgLVQD, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1420: TypeError: this._tabPool is null
+1523902477493	geckodriver	INFO	geckodriver 0.20.0
+1523902477504	geckodriver	INFO	Listening on 127.0.0.1:58751
+1523902478507	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.JrJ9AZlvRRMV"
+1523902479992	Marionette	INFO	Enabled via --marionette
+1523902484836	Marionette	INFO	Listening on port 37839
+1523902484956	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ads.adfox.ru/251518/getCodeTest?%2310003;=&bid=&dl=https%3A%2F%2Fwww.kinopoisk.ru%2F&extid_loader=&extid_tag_loader=www.kinopoisk.ru&grab=dNCa0LjQvdC-0J_QvtC40YHQuiDigJQg0JLRgdC1INGE0LjQu9GM0LzRiyDQv9C70LDQvdC10YLRiwo%3D&is-turbo=0&layout-config=%7B%22win_width%22%3A1301%2C%22win_height%22%3A670%2C%22width%22%3A850%2C%22height%22%3A0%2C%22left%22%3A221%2C%22top%22%3A360%2C%22visible%22%3A1%2C%22req_no%22%3A0%7D&p2=fkyf&pct=a&pd=16&pdh=768&pdw=1366&pfb=a&pfc=a&pp=g&pr=3750464269&pr1=735744232&prr=&ps=cjby&pt=b&pv=21&pw=1&skip-token=&utf8=&ybv=0.750&ylv=0.750&ytt=37&lvlfrom=14&rqs=jRXqGhIAAAAd6NRaZ0bUBnE-DyRbw1Hh&csl=biggc&ad-session-id=5872361523902489226&usgn=AcQQfFkuYG-0TC3G0ts9ETHfWN1ZfbGjrx2Gq3OG3Usl, line 2: NS_ERROR_NOT_INITIALIZED: 
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1523902683804	geckodriver	INFO	geckodriver 0.20.0
+1523902683816	geckodriver	INFO	Listening on 127.0.0.1:54733
+1523902684818	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.eivtZjCk7pzA"
+1523902686322	Marionette	INFO	Enabled via --marionette
+1523902690192	Marionette	INFO	Listening on port 41683
+1523902690250	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ads.adfox.ru/251518/getCodeTest?%2310003;=&bid=&dl=https%3A%2F%2Fwww.kinopoisk.ru%2F&extid_loader=&extid_tag_loader=www.kinopoisk.ru&grab=dNCa0LjQvdC-0J_QvtC40YHQuiDigJQg0JLRgdC1INGE0LjQu9GM0LzRiyDQv9C70LDQvdC10YLRiwo%3D&is-turbo=0&layout-config=%7B%22win_width%22%3A1301%2C%22win_height%22%3A670%2C%22width%22%3A850%2C%22height%22%3A0%2C%22left%22%3A221%2C%22top%22%3A360%2C%22visible%22%3A1%2C%22req_no%22%3A0%7D&p2=fkyf&pct=a&pd=16&pdh=768&pdw=1366&pfb=a&pfc=a&pp=g&pr=2403235021&pr1=2573927218&prr=&ps=cjby&pt=b&pv=21&pw=1&skip-token=&utf8=&ybv=0.750&ylv=0.750&ytt=37&lvlfrom=14&rqs=TcPdGgIAAADp6NRaq6bYy7PsBrgBxfVD&csl=biggc&ad-session-id=591711523902694492&usgn=AedUPp3Ldapt9xTa_TTRPueq1gxsp0QQL9pu_uw9wKCw, line 2: NS_ERROR_NOT_INITIALIZED: 
+1523902921664	geckodriver	INFO	geckodriver 0.20.0
+1523902921677	geckodriver	INFO	Listening on 127.0.0.1:35605
+1523902922683	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Pq1IIOBHfaNG"
+1523902924182	Marionette	INFO	Enabled via --marionette
+1523902927786	Marionette	INFO	Listening on port 37837
+1523902927860	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ads.adfox.ru/251518/getCodeTest?%2310003;=&bid=&dl=https%3A%2F%2Fwww.kinopoisk.ru%2F&extid_loader=&extid_tag_loader=www.kinopoisk.ru&grab=dNCa0LjQvdC-0J_QvtC40YHQuiDigJQg0JLRgdC1INGE0LjQu9GM0LzRiyDQv9C70LDQvdC10YLRiwo%3D&is-turbo=0&layout-config=%7B%22win_width%22%3A1301%2C%22win_height%22%3A670%2C%22width%22%3A850%2C%22height%22%3A0%2C%22left%22%3A221%2C%22top%22%3A360%2C%22visible%22%3A1%2C%22req_no%22%3A0%7D&p2=fkyf&pct=a&pd=16&pdh=768&pdw=1366&pfb=a&pfc=a&pp=g&pr=662510725&pr1=2607526087&prr=&ps=cjby&pt=b&pv=21&pw=1&sign=0b6e2d22bf16246ca4cc6ea67dbb12a1&skip-token=&utf8=&yandexuid=6693746067344381875&ybv=0.750&ylv=0.750&ytt=37&lvlfrom=14&rqs=zTX3GgoAAADY6dRapXEz8dxoiLqkteyu&csl=biggc&ad-session-id=8081761523902932276&usgn=AVzlBCzAKbxyY77lI0Xl-_S_I5MFMarcn87Tzm-s6BmP, line 2: NS_ERROR_NOT_INITIALIZED: 
+1523903029028	geckodriver	INFO	geckodriver 0.20.0
+1523903029041	geckodriver	INFO	Listening on 127.0.0.1:39619
+1523903030044	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.SGmbjoA74vqA"
+1523903031718	Marionette	INFO	Enabled via --marionette
+1523903035206	Marionette	INFO	Listening on port 41367
+1523903035296	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ads.adfox.ru/251518/getCodeTest?%2310003;=&bid=&dl=https%3A%2F%2Fwww.kinopoisk.ru%2F&extid_loader=&extid_tag_loader=www.kinopoisk.ru&grab=dNCa0LjQvdC-0J_QvtC40YHQuiDigJQg0JLRgdC1INGE0LjQu9GM0LzRiyDQv9C70LDQvdC10YLRiwo%3D&is-turbo=0&layout-config=%7B%22win_width%22%3A1301%2C%22win_height%22%3A670%2C%22width%22%3A850%2C%22height%22%3A0%2C%22left%22%3A221%2C%22top%22%3A360%2C%22visible%22%3A1%2C%22req_no%22%3A0%7D&p2=fkyf&pct=a&pd=16&pdh=768&pdw=1366&pfb=a&pfc=a&pp=g&pr=2373328742&pr1=1654645056&prr=&ps=cjby&pt=b&pv=21&pw=1&sign=9731986f67ef209c28203a985c27c091&skip-token=&utf8=&yandexuid=12073611844539111882&ybv=0.750&ylv=0.750&ytt=37&lvlfrom=14&rqs=RZ8SGwMAAABD6tRa133U95lp1FZCysy6&csl=biggc&ad-session-id=1916331523903039762&usgn=AQhJAA-jWViFsPqueXip02TVuuBlVGyakHAlNjWmlpTx, line 2: NS_ERROR_NOT_INITIALIZED: 
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523903077594	geckodriver	INFO	geckodriver 0.20.0
+1523903077605	geckodriver	INFO	Listening on 127.0.0.1:52827
+1523903078601	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.EbYEPYeVV4dg"
+1523903080126	Marionette	INFO	Enabled via --marionette
+1523903083754	Marionette	INFO	Listening on port 43803
+1523903083836	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ads.adfox.ru/251518/getCodeTest?%2310003;=&bid=&dl=https%3A%2F%2Fwww.kinopoisk.ru%2F&extid_loader=&extid_tag_loader=www.kinopoisk.ru&grab=dNCa0LjQvdC-0J_QvtC40YHQuiDigJQg0JLRgdC1INGE0LjQu9GM0LzRiyDQv9C70LDQvdC10YLRiwo%3D&is-turbo=0&layout-config=%7B%22win_width%22%3A1301%2C%22win_height%22%3A670%2C%22width%22%3A850%2C%22height%22%3A0%2C%22left%22%3A221%2C%22top%22%3A360%2C%22visible%22%3A1%2C%22req_no%22%3A0%7D&p2=fkyf&pct=a&pd=16&pdh=768&pdw=1366&pfb=a&pfc=a&pp=g&pr=3317776228&pr1=242377231&prr=&ps=cjby&pt=b&pv=21&pw=1&skip-token=&utf8=&ybv=0.750&ylv=0.750&ytt=37&lvlfrom=14&rqs=9vhZGgEAAABy6tRaJGTDfNm7Q9f8jFQb&csl=biggc&ad-session-id=3979531523903088158&usgn=AT_OG_ZA_rXxe8Dt0VztUmo2bo3lBtO3GaiIYWTyAv0d, line 2: NS_ERROR_NOT_INITIALIZED: 
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523903460003	geckodriver	INFO	geckodriver 0.20.0
+1523903460020	geckodriver	INFO	Listening on 127.0.0.1:43743
+1523903461016	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.PDuKKBHa1qBE"
+1523903462852	Marionette	INFO	Enabled via --marionette
+1523903467424	Marionette	INFO	Listening on port 43161
+1523903467496	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ads.adfox.ru/251518/getCodeTest?%2310003;=&bid=&dl=https%3A%2F%2Fwww.kinopoisk.ru%2F&extid_loader=&extid_tag_loader=www.kinopoisk.ru&grab=dNCa0LjQvdC-0J_QvtC40YHQuiDigJQg0JLRgdC1INGE0LjQu9GM0LzRiyDQv9C70LDQvdC10YLRiwo%3D&is-turbo=0&layout-config=%7B%22win_width%22%3A1301%2C%22win_height%22%3A670%2C%22width%22%3A850%2C%22height%22%3A0%2C%22left%22%3A221%2C%22top%22%3A360%2C%22visible%22%3A1%2C%22req_no%22%3A0%7D&p2=fkyf&pct=a&pd=16&pdh=768&pdw=1366&pfb=a&pfc=a&pp=g&pr=1527554844&pr1=2130434298&prr=&ps=cjby&pt=b&pv=21&pw=1&skip-token=&utf8=&ybv=0.750&ylv=0.750&ytt=37&lvlfrom=14&rqs=ug5aGgEAAAD469RaQhDfCpSjFRnQK2h_&csl=biggc&ad-session-id=871301523903474488&usgn=AQ0UGpIUGfvPiFz3CEXsvm7JnrATEBAY8qMGniRZ4dfO, line 2: NS_ERROR_NOT_INITIALIZED: 
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523903617368	geckodriver	INFO	geckodriver 0.20.0
+1523903617387	geckodriver	INFO	Listening on 127.0.0.1:45059
+1523903618389	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.nzBmkTVNqBhZ"
+1523903620464	Marionette	INFO	Enabled via --marionette
+1523903625904	Marionette	INFO	Listening on port 43073
+1523903626044	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ads.adfox.ru/251518/getCodeTest?%2310003;=&bid=&dl=https%3A%2F%2Fwww.kinopoisk.ru%2F&extid_loader=&extid_tag_loader=www.kinopoisk.ru&grab=dNCa0LjQvdC-0J_QvtC40YHQuiDigJQg0JLRgdC1INGE0LjQu9GM0LzRiyDQv9C70LDQvdC10YLRiwo%3D&is-turbo=0&layout-config=%7B%22win_width%22%3A1301%2C%22win_height%22%3A670%2C%22width%22%3A850%2C%22height%22%3A0%2C%22left%22%3A221%2C%22top%22%3A360%2C%22visible%22%3A1%2C%22req_no%22%3A0%7D&p2=fkyf&pct=a&pd=16&pdh=768&pdw=1366&pfb=a&pfc=a&pp=g&pr=331338061&pr1=4173341704&prr=&ps=cjby&pt=b&pv=21&pw=1&skip-token=&utf8=&ybv=0.750&ylv=0.750&ytt=37&lvlfrom=14&rqs=B_ndGgIAAACW7NRaILbvO2-2uyKeZthj&csl=biggc&ad-session-id=7538031523903633378&usgn=AWQq5aqtrNjibTghE46T3AllvolfsfKDbN7r8tMEkyY4, line 2: NS_ERROR_NOT_INITIALIZED: 
+1523903887416	geckodriver	INFO	geckodriver 0.20.0
+1523903887427	geckodriver	INFO	Listening on 127.0.0.1:49039
+1523903888430	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.JI8dZ1M13I6o"
+1523903889994	Marionette	INFO	Enabled via --marionette
+1523903893310	Marionette	INFO	Listening on port 43925
+1523903893386	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ads.adfox.ru/251518/getCodeTest?%2310003;=&bid=&dl=https%3A%2F%2Fwww.kinopoisk.ru%2F&extid_loader=&extid_tag_loader=www.kinopoisk.ru&grab=dNCa0LjQvdC-0J_QvtC40YHQuiDigJQg0JLRgdC1INGE0LjQu9GM0LzRiyDQv9C70LDQvdC10YLRiwo%3D&is-turbo=0&layout-config=%7B%22win_width%22%3A1301%2C%22win_height%22%3A670%2C%22width%22%3A850%2C%22height%22%3A0%2C%22left%22%3A221%2C%22top%22%3A360%2C%22visible%22%3A1%2C%22req_no%22%3A0%7D&p2=fkyf&pct=a&pd=16&pdh=768&pdw=1366&pfb=a&pfc=a&pp=g&pr=3588123911&pr1=2425808850&prr=&ps=cjby&pt=b&pv=21&pw=1&sign=695db05b3170090a7dd4a1786b7d020c&skip-token=&utf8=&yandexuid=13573464518363154430&ybv=0.750&ylv=0.750&ytt=37&lvlfrom=14&rqs=VXW1GgQAAACd7dRa7eY2I12z4oYiUB7z&csl=biggc&ad-session-id=2838651523903897958&usgn=AYmsjvOW2zWLwRsGvGtiFQ7G4x9b7b35jTt158EL4ABe, line 2: NS_ERROR_NOT_INITIALIZED: 
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523903941136	geckodriver	INFO	geckodriver 0.20.0
+1523903941151	geckodriver	INFO	Listening on 127.0.0.1:46497
+1523903942145	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.snFfZ7FRno3X"
+1523903943594	Marionette	INFO	Enabled via --marionette
+1523903946998	Marionette	INFO	Listening on port 45877
+1523903947140	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ads.adfox.ru/251518/getCodeTest?%2310003;=&bid=&dl=https%3A%2F%2Fwww.kinopoisk.ru%2F&extid_loader=&extid_tag_loader=www.kinopoisk.ru&grab=dNCa0LjQvdC-0J_QvtC40YHQuiDigJQg0JLRgdC1INGE0LjQu9GM0LzRiyDQv9C70LDQvdC10YLRiwo%3D&is-turbo=0&layout-config=%7B%22win_width%22%3A1301%2C%22win_height%22%3A670%2C%22width%22%3A850%2C%22height%22%3A0%2C%22left%22%3A221%2C%22top%22%3A360%2C%22visible%22%3A1%2C%22req_no%22%3A0%7D&p2=fkyf&pct=a&pd=16&pdh=768&pdw=1366&pfb=a&pfc=a&pp=g&pr=573713764&pr1=2716580779&prr=&ps=cjby&pt=b&pv=21&pw=1&skip-token=&utf8=&ybv=0.750&ylv=0.750&ytt=37&lvlfrom=14&rqs=NClaGgEAAADT7dRaY_H69DcI2_NSEwTV&csl=biggc&ad-session-id=2806931523903951784&usgn=AcQdZYKfKnr7jrETLBF56lkxBp1BEnArtiWA3QlwMvSl, line 2: NS_ERROR_NOT_INITIALIZED: 
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523904074052	geckodriver	INFO	geckodriver 0.20.0
+1523904074065	geckodriver	INFO	Listening on 127.0.0.1:33845
+1523904075074	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.rkaCpHPahUf8"
+1523904076834	Marionette	INFO	Enabled via --marionette
+1523904081950	Marionette	INFO	Listening on port 37655
+1523904082066	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ads.adfox.ru/251518/getCodeTest?%2310003;=&bid=&dl=https%3A%2F%2Fwww.kinopoisk.ru%2F&extid_loader=&extid_tag_loader=www.kinopoisk.ru&grab=dNCa0LjQvdC-0J_QvtC40YHQuiDigJQg0JLRgdC1INGE0LjQu9GM0LzRiyDQv9C70LDQvdC10YLRiwo%3D&is-turbo=0&layout-config=%7B%22win_width%22%3A1301%2C%22win_height%22%3A670%2C%22width%22%3A850%2C%22height%22%3A0%2C%22left%22%3A221%2C%22top%22%3A360%2C%22visible%22%3A1%2C%22req_no%22%3A0%7D&p2=fkyf&pct=a&pd=16&pdh=768&pdw=1366&pfb=a&pfc=a&pp=g&pr=4219320534&pr1=4090857815&prr=&ps=cjby&pt=b&pv=21&pw=1&skip-token=&utf8=&ybv=0.750&ylv=0.750&ytt=37&lvlfrom=14&rqs=CzcaGxMAAABc7tRamLNIZfI15ncgMToI&csl=biggc&ad-session-id=2026361523904088536&usgn=AcTOll9mJ9z2NSHEqu431CdQddPK8yoqk8ppxfcsy0sf, line 2: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523904117300	geckodriver	INFO	geckodriver 0.20.0
+1523904117316	geckodriver	INFO	Listening on 127.0.0.1:41979
+1523904118316	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.TP47Yb0odabe"
+1523904120250	Marionette	INFO	Enabled via --marionette
+1523904125012	Marionette	INFO	Listening on port 39015
+1523904125086	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ads.adfox.ru/251518/getCodeTest?%2310003;=&bid=&dl=https%3A%2F%2Fwww.kinopoisk.ru%2F&extid_loader=&extid_tag_loader=www.kinopoisk.ru&grab=dNCa0LjQvdC-0J_QvtC40YHQuiDigJQg0JLRgdC1INGE0LjQu9GM0LzRiyDQv9C70LDQvdC10YLRiwo%3D&is-turbo=0&layout-config=%7B%22win_width%22%3A1301%2C%22win_height%22%3A670%2C%22width%22%3A850%2C%22height%22%3A0%2C%22left%22%3A221%2C%22top%22%3A360%2C%22visible%22%3A1%2C%22req_no%22%3A0%7D&p2=fkyf&pct=a&pd=16&pdh=768&pdw=1366&pfb=a&pfc=a&pp=g&pr=686817407&pr1=2804483823&prr=&ps=cjby&pt=b&pv=21&pw=1&skip-token=&utf8=&ybv=0.750&ylv=0.750&ytt=2085&lvlfrom=14&rqs=Kma0GhQAAACG7tRasCm5om9YHWY_FMOx&csl=biggc&ad-session-id=6663141523904130696&usgn=AaIaMEQO0YEfysl3P81Y3vYlEyRFXsGqUwiNzzOHWJOk, line 2: NS_ERROR_NOT_INITIALIZED: 
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523904245750	geckodriver	INFO	geckodriver 0.20.0
+1523904245764	geckodriver	INFO	Listening on 127.0.0.1:35979
+1523904246766	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.sZbM5Vy8eUS6"
+1523904248258	Marionette	INFO	Enabled via --marionette
+1523904252288	Marionette	INFO	Listening on port 36403
+1523904252398	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ads.adfox.ru/251518/getCodeTest?%2310003;=&bid=&dl=https%3A%2F%2Fwww.kinopoisk.ru%2F&extid_loader=&extid_tag_loader=www.kinopoisk.ru&grab=dNCa0LjQvdC-0J_QvtC40YHQuiDigJQg0JLRgdC1INGE0LjQu9GM0LzRiyDQv9C70LDQvdC10YLRiwo%3D&is-turbo=0&layout-config=%7B%22win_width%22%3A1301%2C%22win_height%22%3A670%2C%22width%22%3A850%2C%22height%22%3A0%2C%22left%22%3A221%2C%22top%22%3A360%2C%22visible%22%3A1%2C%22req_no%22%3A0%7D&p2=fkyf&pct=a&pd=16&pdh=768&pdw=1366&pfb=a&pfc=a&pp=g&pr=3013991530&pr1=2140593334&prr=&ps=cjby&pt=b&pv=21&pw=1&skip-token=&utf8=&ybv=0.750&ylv=0.750&ytt=37&lvlfrom=14&rqs=XtPzGg8AAAAF79RaMM0wKrAjngKfXwh2&csl=biggc&ad-session-id=499511523904257138&usgn=ARQ51yENLC4vJ7lD--pNSOK8vGs3cKGEtDBhYux_ydmT, line 2: NS_ERROR_NOT_INITIALIZED: 
+1523904310284	geckodriver	INFO	geckodriver 0.20.0
+1523904310296	geckodriver	INFO	Listening on 127.0.0.1:35797
+1523904311294	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.CvnXUtBbi5Kp"
+1523904312834	Marionette	INFO	Enabled via --marionette
+1523904316568	Marionette	INFO	Listening on port 38493
+1523904316628	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ads.adfox.ru/251518/getCodeTest?%2310003;=&bid=&dl=https%3A%2F%2Fwww.kinopoisk.ru%2F&extid_loader=&extid_tag_loader=www.kinopoisk.ru&grab=dNCa0LjQvdC-0J_QvtC40YHQuiDigJQg0JLRgdC1INGE0LjQu9GM0LzRiyDQv9C70LDQvdC10YLRiwo%3D&is-turbo=0&layout-config=%7B%22win_width%22%3A1301%2C%22win_height%22%3A670%2C%22width%22%3A850%2C%22height%22%3A0%2C%22left%22%3A221%2C%22top%22%3A360%2C%22visible%22%3A1%2C%22req_no%22%3A0%7D&p2=fkyf&pct=a&pd=16&pdh=768&pdw=1366&pfb=a&pfc=a&pp=g&pr=2545930583&pr1=720486056&prr=&ps=cjby&pt=b&pv=21&pw=1&sign=54a4e95a6ddea860d6c9bae4ee5c0264&skip-token=&utf8=&yandexuid=15736139692742316621&ybv=0.750&ylv=0.750&ytt=37&lvlfrom=14&rqs=yA_aGgwAAABE79RaweTwC1Ixvqg_MTLo&csl=biggc&ad-session-id=4636931523904320924&usgn=Adyt39IJaA8lX1pvyCfbWjw_6EDv3rU-HRT0oLRx_wZ4, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://yastatic.net/s3/kinopoisk-frontend/widgets-www/discovery/0.0.253-discovery/sdk.min.js, line 1: TypeError: can't convert undefined to object
+JavaScript warning: https://www.kinopoisk.ru/article/3155813/, line 857: SyntaxError: 08 is not a legal ECMA-262 octal constant
+JavaScript warning: https://www.kinopoisk.ru/article/3155813/, line 857: SyntaxError: 08 is not a legal ECMA-262 octal constant
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523904363780	geckodriver	INFO	geckodriver 0.20.0
+1523904363794	geckodriver	INFO	Listening on 127.0.0.1:38761
+1523904364794	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.oW9QfyczVjk8"
+1523904366290	Marionette	INFO	Enabled via --marionette
+1523904370040	Marionette	INFO	Listening on port 40873
+1523904370154	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ads.adfox.ru/251518/getCodeTest?%2310003;=&bid=&dl=https%3A%2F%2Fwww.kinopoisk.ru%2F&extid_loader=&extid_tag_loader=www.kinopoisk.ru&grab=dNCa0LjQvdC-0J_QvtC40YHQuiDigJQg0JLRgdC1INGE0LjQu9GM0LzRiyDQv9C70LDQvdC10YLRiwo%3D&is-turbo=0&layout-config=%7B%22win_width%22%3A1301%2C%22win_height%22%3A670%2C%22width%22%3A850%2C%22height%22%3A0%2C%22left%22%3A221%2C%22top%22%3A360%2C%22visible%22%3A1%2C%22req_no%22%3A0%7D&p2=fkyf&pct=a&pd=16&pdh=768&pdw=1366&pfb=a&pfc=a&pp=g&pr=616507277&pr1=309593749&prr=&ps=cjby&pt=b&pv=21&pw=1&skip-token=&utf8=&ybv=0.750&ylv=0.750&ytt=37&lvlfrom=14&rqs=hn_qGhIAAAB679Ra1BN-SoMnNMPrZJSw&csl=biggc&ad-session-id=4925631523904374612&usgn=AfNmUuFroeURkhHcwodjz29GSf3wvxfSnibZ4hKq3FK7, line 2: NS_ERROR_NOT_INITIALIZED: 
+1523904440844	geckodriver	INFO	geckodriver 0.20.0
+1523904440856	geckodriver	INFO	Listening on 127.0.0.1:34919
+1523904441858	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.L3zmhsRVBBEy"
+1523904443468	Marionette	INFO	Enabled via --marionette
+1523904447572	Marionette	INFO	Listening on port 44809
+1523904447978	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ads.adfox.ru/251518/getCodeTest?%2310003;=&bid=&dl=https%3A%2F%2Fwww.kinopoisk.ru%2F&extid_loader=&extid_tag_loader=www.kinopoisk.ru&grab=dNCa0LjQvdC-0J_QvtC40YHQuiDigJQg0JLRgdC1INGE0LjQu9GM0LzRiyDQv9C70LDQvdC10YLRiwo%3D&is-turbo=0&layout-config=%7B%22win_width%22%3A1301%2C%22win_height%22%3A670%2C%22width%22%3A850%2C%22height%22%3A0%2C%22left%22%3A221%2C%22top%22%3A360%2C%22visible%22%3A1%2C%22req_no%22%3A0%7D&p2=fkyf&pct=a&pd=16&pdh=768&pdw=1366&pfb=a&pfc=a&pp=g&pr=3795961654&pr1=4056266497&prr=&ps=cjby&pt=b&pv=21&pw=1&skip-token=&utf8=&ybv=0.750&ylv=0.750&ytt=37&lvlfrom=14&rqs=IUsaGxMAAADG79Ra5CB5wLEEPDAvOadW&csl=biggc&ad-session-id=5760351523904451998&usgn=AU85HDRFR4J9U5Z6OJP4n0CEvLda-KijmkCVUyeMcFuY, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://st2.kp.yandex.net/js/image_slider.js?v=80cdc9f6980767de72640039fc127843, line 224: NS_ERROR_NOT_INITIALIZED: 
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523904477989	geckodriver	INFO	geckodriver 0.20.0
+1523904478000	geckodriver	INFO	Listening on 127.0.0.1:56513
+1523904479002	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.jSXKBBY8QtzP"
+1523904480562	Marionette	INFO	Enabled via --marionette
+1523904484334	Marionette	INFO	Listening on port 34327
+1523904484438	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ads.adfox.ru/251518/getCodeTest?%2310003;=&bid=&dl=https%3A%2F%2Fwww.kinopoisk.ru%2F&extid_loader=MTUyMzkwNDQ4OTUwOTIyNDAxMg%3D%3D&extid_tag_loader=www.kinopoisk.ru&grab=dNCa0LjQvdC-0J_QvtC40YHQuiDigJQg0JLRgdC1INGE0LjQu9GM0LzRiyDQv9C70LDQvdC10YLRiwo%3D&is-turbo=0&layout-config=%7B%22win_width%22%3A1301%2C%22win_height%22%3A670%2C%22width%22%3A850%2C%22height%22%3A0%2C%22left%22%3A221%2C%22top%22%3A360%2C%22visible%22%3A1%2C%22req_no%22%3A0%7D&p2=fkyf&pct=a&pd=16&pdh=768&pdw=1366&pfb=a&pfc=a&pp=g&pr=8122186&pr1=2027353542&prr=&ps=cjby&pt=b&pv=21&pw=1&sign=3d16074631392f0692ae05252ed8229a&skip-token=&utf8=&yandexuid=7490020393727446328&ybv=0.750&ylv=0.750&ytt=37&lvlfrom=14&rqs=zyLxGhcAAADt79RaBmlghlDxXg4gwQIS&csl=biggc&ad-session-id=3934441523904489144&usgn=AV27g8dqw8uj3H4LXapfQSdVRBYL5dzeKgiobpbC7FBW, line 2: NS_ERROR_NOT_INITIALIZED: 
+[Parent 23501, Gecko_IOThread] WARNING: pipe error (99): Connection reset by peer: file /build/firefox-IFICOW/firefox-59.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523904546125	geckodriver	INFO	geckodriver 0.20.0
+1523904546136	geckodriver	INFO	Listening on 127.0.0.1:60517
+1523904547139	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.TTiu4z20SarU"
+1523904548636	Marionette	INFO	Enabled via --marionette
+1523904552510	Marionette	INFO	Listening on port 42175
+1523904552596	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ads.adfox.ru/251518/getCodeTest?%2310003;=&bid=&dl=https%3A%2F%2Fwww.kinopoisk.ru%2F&extid_loader=MTUyMzkwNDU1NzcyNjU1Mjc1Nw%3D%3D&extid_tag_loader=www.kinopoisk.ru&grab=dNCa0LjQvdC-0J_QvtC40YHQuiDigJQg0JLRgdC1INGE0LjQu9GM0LzRiyDQv9C70LDQvdC10YLRiwo%3D&is-turbo=0&layout-config=%7B%22win_width%22%3A1301%2C%22win_height%22%3A670%2C%22width%22%3A850%2C%22height%22%3A0%2C%22left%22%3A221%2C%22top%22%3A360%2C%22visible%22%3A1%2C%22req_no%22%3A0%7D&p2=fkyf&pct=a&pd=16&pdh=768&pdw=1366&pfb=a&pfc=a&pp=g&pr=340050951&pr1=239756058&prr=&ps=cjby&pt=b&pv=21&pw=1&sign=9ff13de6537835476805d162bafc5401&skip-token=&utf8=&yandexuid=8245391025492491814&ybv=0.750&ylv=0.750&ytt=2085&lvlfrom=14&rqs=en20GhQAAAAx8NRa1BRcwyhBWzNrosU3&csl=biggc&ad-session-id=9353051523904557092&usgn=AZo7T0jeV3jCsRBiIKmBR-ABK5TjvNoS_NTIBYkngYV-, line 2: NS_ERROR_NOT_INITIALIZED: 
+1523904613820	geckodriver	INFO	geckodriver 0.20.0
+1523904613832	geckodriver	INFO	Listening on 127.0.0.1:34391
+1523904614834	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.R4r6iAlZGlLU"
+1523904616298	Marionette	INFO	Enabled via --marionette
+1523904620302	Marionette	INFO	Listening on port 36457
+1523904620386	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ads.adfox.ru/251518/getCodeTest?%2310003;=&bid=&dl=https%3A%2F%2Fwww.kinopoisk.ru%2F&extid_loader=&extid_tag_loader=www.kinopoisk.ru&grab=dNCa0LjQvdC-0J_QvtC40YHQuiDigJQg0JLRgdC1INGE0LjQu9GM0LzRiyDQv9C70LDQvdC10YLRiwo%3D&is-turbo=0&layout-config=%7B%22win_width%22%3A1301%2C%22win_height%22%3A670%2C%22width%22%3A850%2C%22height%22%3A0%2C%22left%22%3A221%2C%22top%22%3A360%2C%22visible%22%3A1%2C%22req_no%22%3A0%7D&p2=fkyf&pct=a&pd=16&pdh=768&pdw=1366&pfb=a&pfc=a&pp=g&pr=3775289974&pr1=1131968773&prr=&ps=cjby&pt=b&pv=21&pw=1&skip-token=&utf8=&ybv=0.750&ylv=0.750&ytt=37&lvlfrom=14&rqs=oPoSGwMAAAB08NRagbPVZ-BSHM66rB3V&csl=biggc&ad-session-id=5144741523904624506&usgn=AWv35FJ1RE7pSUXJjPtyQ_CFb3OHl1SUFBfB6_Jzk7MM, line 2: NS_ERROR_NOT_INITIALIZED: 
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1523904755380	geckodriver	INFO	geckodriver 0.20.0
+1523904755393	geckodriver	INFO	Listening on 127.0.0.1:51391
+1523904756395	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.3LwpK1TnZ3sY"
+1523904757876	Marionette	INFO	Enabled via --marionette
+1523904761186	Marionette	INFO	Listening on port 39999
+1523904761272	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ads.adfox.ru/251518/getCodeTest?%2310003;=&bid=&dl=https%3A%2F%2Fwww.kinopoisk.ru%2F&extid_loader=MTUyMzkwNDc2NjE2NjQ4MTc3NA%3D%3D&extid_tag_loader=www.kinopoisk.ru&grab=dNCa0LjQvdC-0J_QvtC40YHQuiDigJQg0JLRgdC1INGE0LjQu9GM0LzRiyDQv9C70LDQvdC10YLRiwo%3D&is-turbo=0&layout-config=%7B%22win_width%22%3A1301%2C%22win_height%22%3A670%2C%22width%22%3A850%2C%22height%22%3A0%2C%22left%22%3A221%2C%22top%22%3A360%2C%22visible%22%3A1%2C%22req_no%22%3A0%7D&p2=fkyf&pct=a&pd=16&pdh=768&pdw=1366&pfb=a&pfc=a&pp=g&pr=2637528384&pr1=2975438634&prr=&ps=cjby&pt=b&pv=21&pw=1&skip-token=&utf8=&ybv=0.750&ylv=0.750&ytt=37&lvlfrom=14&rqs=m8WvGhUAAAAB8dRalF9yyv5NaGoHxALv&csl=biggc&ad-session-id=171431523904766116&usgn=AeDMZZE1MOmUd7yp2zSFCuQJ5k4AOQKW-usUGOB2uVNd, line 2: NS_ERROR_NOT_INITIALIZED: 
