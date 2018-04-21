@@ -18,9 +18,6 @@ driver.find_element_by_class_name('button__label').click() #нажимаем к�
 time.sleep(2) #ждём 2 секунды
 #driver.quit() #завершаем работу
 '''
-#links = driver.find_element(By.CSS_SELECTOR, '#index_news > div:nth-child(1) > div:nth-child(1) > div:nth-child(1)')
-links = driver.find_elements_by_css_selector('#index_news > div:nth-child(1) > div:nth-child(1) > div:nth-child')
+links = driver.find_elements_by_css_selector('#index_news > div > div > div')
 print(links)
 links[2].click()
-#index_news > div:nth-child(1) > div:nth-child(1) > div:nth-child(1)
-#index_news > div:nth-child(1) > div:nth-child(1) > div:nth-child(2)
